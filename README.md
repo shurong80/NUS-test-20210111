@@ -9,7 +9,8 @@ Some more dummy text. 25 minutes until lunch!
 * more git
 * cloud with Gilbert
 * docker - if time permits
-* hand out reading assignments and homework!
+* hand out reading assignments and homework
+* class ends at 5pm
 
 ![](lavo2.png)
 
