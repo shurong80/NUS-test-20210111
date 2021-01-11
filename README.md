@@ -11,3 +11,8 @@ Some more dummy text. 25 minutes until lunch!
 * docker - if time permits
 * hand out reading assignments and homework!
 
+![](lavo2.png)
+
+
+
+
